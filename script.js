@@ -18,4 +18,3 @@ const observer = new IntersectionObserver(addSlideIn, options)
 items.forEach(item => {
   observer.observe(item);
 })
-

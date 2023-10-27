@@ -1,12 +1,12 @@
 body{
-  background-color: pink;
+  background-color:pink ;
 }
+
 .container {
   min-height: 80vh;
   margin-block: 0;
   display: flex;
   align-items: center;
-
 }
 
 .container > .row {
